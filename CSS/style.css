@@ -1,0 +1,38 @@
+body {
+    background-color: #d6d6d6;
+    font-family: helvetica;
+    font-size: 11px;
+    color: #484F4F;
+}
+
+.liststylesquare {
+    list-style-type: square;
+   
+}
+
+
+h1 {
+    background-color: #E2E2E0;
+    width: 15%;
+    text-align: center;
+    color: #35B7B7;
+    text-decoration: underline;
+    padding: 5px 0px 0px 0px;
+    
+}
+
+h2 {
+    color: #35B7B7;
+    text-decoration: underline
+}
+
+.conteneur {
+    width: 100%;
+    max-width: 960px;
+    padding: 10px;
+    margin: 15px;
+}
+
+.imagen {
+   background-size:10px;
+}
