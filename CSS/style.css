@@ -33,6 +33,22 @@ h2 {
     margin: 15px;
 }
 
-.imagen {
-   background-size:10px;
+.image {
+    width:20%;
+    display:inline-block;
+    vertical-align:top;
+    box-sizing:border-box;
+}
+
+header .image img {
+    width:50%;
+}
+
+.colonne {
+    width:30%;
+    padding: 10px;
+    display:inline-block;
+    vertical-align:top;
+    box-sizing:border-box;
+    
 }
